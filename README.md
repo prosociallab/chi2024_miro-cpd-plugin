@@ -1,6 +1,12 @@
 # AI-assisted Miro plugin for building causal pathway diagrams (CPDs)
 Codebase for the Miro interface that supports AI-assisted causal pathway diagram (CHI '24)
 
+### How to install
+
+1. Install the dependencies by `npm install`
+2. Run the repository by `npm run dev`
+3. Go to the localhost & set up the localhost link in your Miro app configuration
+4. You will be able to see the icon on the Miro sidebar
 
 ### Citation
 ```bibtex
@@ -11,3 +17,9 @@ Codebase for the Miro interface that supports AI-assisted causal pathway diagram
   year={2024}
 }
 ```
+
+### Contact
+
+[Donghoon Shin](https://donghoon.io)
+
+[Ruican Zhong](https://ruican-zhong.netlify.app/)
