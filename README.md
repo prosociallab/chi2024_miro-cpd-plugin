@@ -1,4 +1,7 @@
 # AI-assisted Miro plugin for building causal pathway diagrams (CPDs)
+
+[![DOI:10.1145/3613904.3642179](https://badgen.net/badge/DOI/10.1145%2F3613904.3642179/blue)](https://doi.org/10.1145/3613904.3642179)
+
 Codebase for the Miro interface that supports AI-assisted causal pathway diagram (CHI '24)
 
 ### How to install
@@ -10,7 +13,7 @@ Codebase for the Miro interface that supports AI-assisted causal pathway diagram
 
 ### Citation
 ```bibtex
-@inproceedings{chi2024_cpd,
+@inproceedings{cpd,
   title={AI-Assisted Causal Pathway Diagram for Human-Centered Design},
   author={Zhong, Ruican and Shin, Donghoon and Meza, Rosemary and Klasnja, Predrag and Colusso, Lucas and Hsieh, Gary},
   booktitle={Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
